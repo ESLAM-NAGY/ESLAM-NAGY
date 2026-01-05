@@ -1,16 +1,37 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Eslam Nagy</h1>
+<h3 align="center">Frontend Beginner | Learning Web & AI</h3>
 
-<!--
-**ESLAM-NAGY/ESLAM-NAGY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
+- 🌱 I’m currently learning **Frontend Development**
+- 🤖 Interested in **AI & Future Technologies**
+- 🎬 I love **Anime**
+- 💡 Always learning new things
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Languages & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ESLAM-NAGY&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ESLAM-NAGY&theme=tokyonight" />
+</p>
+
+---
+
+### 📫 Contact Me
+- GitHub: [ESLAM-NAGY](https://github.com/ESLAM-NAGY)
+
+---
+
+⭐ From Egypt 🇪🇬
