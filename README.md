@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eslam Nagy</h1>
-<h3 align="center">Frontend Beginner | Learning Web & AI</h3>
+<h3 align="center">Frontend Beginner</h3>
 <p align="center">👨‍💻 About Me
 - 🌱 I’m currently learning **Frontend Development**
 - 🤖 Interested in **AI & Future Technologies**
